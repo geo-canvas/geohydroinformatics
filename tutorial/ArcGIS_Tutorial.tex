@@ -1,0 +1,25 @@
+\documentclass[a4paper,12pt,twoside]{book}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RE,LO]{\leftmark}
+\fancyfoot[LE,RO]{\thepage}
+
+\title{Geohydroinformatics Tutorial}
+\author{Mahesh Thapa}
+\begin{document}
+\pagenumbering{roman}
+%\thispagestyle{empty}
+\maketitle
+\tableofcontents
+\listoffigures
+\listoftables
+\include{chapters/ch_installation}
+\include{chapters/ch_arcmap_interface}
+\include{chapters/ch_labelling_and_symbolization}
+\include{chapters/ch_georeferencing}
+\include{chapters/ch_geodatabase_creation}
+\include{chapter/ch_attribute_data}
+
+\end{document}
