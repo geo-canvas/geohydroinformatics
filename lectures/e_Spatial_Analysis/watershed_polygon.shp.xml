@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201223</CreaDate><CreaTime>19120200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20201223" Time="191202">RasterToPolygon watershed D:\academy\geohydroinformatics\lectures\e_Spatial_Analysis\watershed_polygon.shp SIMPLIFY VALUE</Process></lineage></DataProperties></Esri></metadata>
